@@ -27,7 +27,7 @@ A documentação completa da API pode ser acessada pelo Swagger:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/lurregiabarretp/JavaSpringDevAPI.git
+   git clone https://github.com/lurregiabarreto/JavaSpringDevAPI.git
    ```
 
 2. Entre na pasta do projeto:
