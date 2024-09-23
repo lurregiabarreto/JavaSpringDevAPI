@@ -16,7 +16,6 @@ O **JavaSpringDevAPI** é uma API RESTful desenvolvida utilizando Java 17 e Spri
 - Endpoints para CRUD de recursos principais.
 - Documentação automática da API com Swagger.
 - Integração com banco de dados SQL utilizando Spring Data JPA.
-- Deploy contínuo e monitoramento na nuvem com Railway.
 
 ## Documentação da API
 
