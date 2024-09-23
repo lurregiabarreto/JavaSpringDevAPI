@@ -23,10 +23,6 @@ A documentação completa da API pode ser acessada pelo Swagger:
 
 [Documentação Swagger](https://sdw-2023-prd.up.railway.app/swagger-ui.html)
 
-## Diagrama de Classes
-
-O diagrama de classes para o domínio da API pode ser encontrado no Figma, utilizado para abstração e análise do projeto.
-
 ## Como Executar o Projeto Localmente
 
 1. Clone o repositório:
